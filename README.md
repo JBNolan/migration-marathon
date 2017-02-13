@@ -1,3 +1,7 @@
+# Brief Overview
+
+I used this project to familiarize myself with ActiveRecord and PostgrSQL.
+
 # Sinatra Active Record Starter Kit
 
 This template provides a basic [Sinatra](http://www.sinatrarb.com/) application
